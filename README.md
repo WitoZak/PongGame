@@ -1,19 +1,19 @@
-Witaj w grze Pong napisanej w języku Java i JavaFX!
+Welcome to the Pong game written in Java and JavaFX!
 
-## Jak grać
+## How to Play
 
-1. Uruchom grę, otwierając plik Pong.java i klikając przycisk "Run" w swoim środowisku programistycznym.
-2. Gracz 1 steruje rakietką po prawej stronie planszy za pomocą klawiszy "W" (góra) i "S" (dół).
-3. Gracz 2 steruje rakietką po lewej stronie planszy za pomocą strzałek "góra" i "dół" na klawiaturze.
+1. Start the game by opening the Pong.java file and clicking the "Run" button in your development environment.
+2. Player 1 controls the paddle on the right side of the screen using the "W" key (up) and "S" key (down).
+3. Player 2 controls the paddle on the left side of the screen using the arrow keys "up" and "down" on the keyboard.
 
-## Technologie
+## Technologies
 
-Gra Pong została napisana w języku Java z wykorzystaniem biblioteki JavaFX.
+The Pong game was developed in Java using the JavaFX library.
 
-## Funkcjonalności
+## Features
 
-- Gra obsługuje dwóch graczy.
-- Licznik punktów dla każdego gracza.
-- Prosty, ale przyjazny dla oka interfejs użytkownika.
+- The game supports two players.
+- Score counter for each player.
+- Simple yet visually appealing user interface.
 
-Gra zostałą stworzona podczas kursu programowania aby rozwijać swoje umiejętnośći pisania w języku Java.
+The game was created during a programming course to enhance Java coding skills.
